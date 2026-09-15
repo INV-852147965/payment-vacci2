@@ -1,8 +1,10 @@
 2026-09-15
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: popeshirley56@yahoo.com, kimbingham@verizon.net
-At: 2026-09-15 21:49:30
-Id: ITqszSn0
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: cherub951@aol.com, mgiannoule@aol.com
+At: 2026-09-15 21:50:09
+Id: yZft5cjJ
